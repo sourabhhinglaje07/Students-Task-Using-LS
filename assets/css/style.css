@@ -1,0 +1,34 @@
+
+Body{
+    color: black;
+    font-family: "Asap", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    background-image: url(../images/image2.jpg.jpg);
+    background-attachment: fixed;
+    object-fit: cover;
+    background-position: bottom;
+}
+
+header{
+    text-align: center;
+    color: red;
+}
+
+.control-form, #updateBtn{
+    font-family: "Asap", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+}
+
+.card,.card-body {
+    background-color: rgba(119, 122, 16, 0.171);
+}
+
+.form-control{
+    background-color: rgb(255, 246, 168);
+    font-family: "Asap", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    color:black;
+}
